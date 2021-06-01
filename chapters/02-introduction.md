@@ -1,6 +1,6 @@
 # Introduction
 
-C++ first appeared in 1985 and 35 years later, it still remains relevant. In most universities level CS courses, C or C++ is a part of the syllabus. Depending on your plans about your future profession, you will need to master different technologies and languages. C++ is one language that you should know irrespective of the domain you choose to work in.
+C++ first appeared in 1985 and 35 years later, it still remains relevant. In most university level CS courses, C or C++ is a part of the syllabus. Depending on your plans about your future profession, you will need to master different technologies and languages. C++ is one language that you should know irrespective of the domain you choose to work in.
 
 For me, C++ was my first language, that I started at the age of 14. Some things made sense. Some didn't. What I can say is that is was a thrilling experience - the realization that you can make a computer work the way you want it to. I was limited to writing basic programs using i/o, conditionals and loops. There wasn't much knowledge that I gained, however, the familiarity I gained with the language helped me later on. When I started learning data structures, I found it easy to implement them. For me, transferring an idea from my head to actual code was a smooth process.
 
