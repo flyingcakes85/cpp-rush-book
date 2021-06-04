@@ -20,13 +20,9 @@ This project is currently a WIP.
 - [ ] Introduction to Standard Template Library
 - [ ] More topics? Feel free to share in [Discussions/Suggestions](https://github.com/flyingcakes85/cpp-rush-book/discussions/categories/suggestions)
 
-## Build
-
-While this project is incomplete, I will not be regularly providing PDFs. It is easy to generate a PDF yourself.
-
 ## Contributing & Pull Requests
 
-You can contribute by writing chapters, proofreading existiting chapters, adding more examples, rewriting sections etc. Please read CONTRIBUTING.md to know more.
+You can contribute by writing chapters, proofreading existiting chapters, adding more examples, rewriting sections etc. Please read CONTRIBUTING.md to know more. To see chapters requiring proof reading, [click here](https://github.com/flyingcakes85/cpp-rush-book/issues?q=is%3Aopen+is%3Aissue+label%3A%22proof+read%22).
 
 ## About The Template
 
@@ -37,6 +33,10 @@ I will love to know if you have some good pandoc templates in mind. Share them i
 ## Issues
 
 I try to research topics before including them in the book. However, if you happen to find any errors, please bring it to my notice so that it can be fixed.
+
+## Build
+
+While this project is incomplete, I will not be regularly providing PDFs. It is easy to generate a PDF yourself.
 
 ### Dependencies
 
