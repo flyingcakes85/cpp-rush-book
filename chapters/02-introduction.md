@@ -105,3 +105,8 @@ From now on, whenever I say _running the code_ or _executing the code_, I will m
 g++ source.cpp
 ./a.out
 ```
+
+<!--
+@todo Proof read chapter 02-introduction
+@body This chapter hasn't been checked yet. Need to proof read.
+ -->

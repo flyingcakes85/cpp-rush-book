@@ -101,3 +101,8 @@ int main
 ```
 
 To avoid unnecessary repetition, I will omit these lines in the snippets I present.
+
+<!--
+@todo Proof read chapter 03-basic-concepts
+@body This chapter hasn't been checked yet. Need to proof read.
+ -->

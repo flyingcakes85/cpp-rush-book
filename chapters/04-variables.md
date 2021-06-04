@@ -130,3 +130,8 @@ The name of a function, type, object or any other item you create is called _ide
 - They case sensitive
 - Cannot contain spaces
 - Must not collide with a C++ keyword
+
+<!--
+@todo Proof read chapter 04-variables
+@body This chapter hasn't been checked yet. Need to proof read.
+ -->

@@ -149,3 +149,8 @@ Often, people do not redirect `stderr`.
 ```
 
 This will let the program do its input and output from the specified files, while errors will be printed to console. This helps programmers focus on only errors. If there was no text printed in console, it means there were no errors.
+
+<!--
+@todo Proof read chapter 05-input-output
+@body This chapter hasn't been checked yet. Need to proof read.
+ -->

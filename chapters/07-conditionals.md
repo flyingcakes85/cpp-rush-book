@@ -209,3 +209,8 @@ Notice I have added `break` statements after each case. This will break out of t
 ```
 Case 2
 ```
+
+<!--
+@todo Proof read chapter 07-conditionals
+@body This chapter hasn't been checked yet. Need to proof read.
+ -->

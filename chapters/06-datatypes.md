@@ -324,3 +324,8 @@ std::cout << a; // 98 corresponds to character 'b'
 ```
 
 This will output the character `b`.
+
+<!--
+@todo Proof read chapter 06-datatypes
+@body This chapter hasn't been checked yet. Need to proof read.
+ -->
