@@ -8,7 +8,7 @@ This project is currently a WIP.
 
 [SHARE YOUR THOUGHTS ON LICENSE](https://github.com/flyingcakes85/cpp-rush-book/discussions/1)
 
-# Roadmap
+## Roadmap
 
 - [ ] Complete basic topics - conditionals, loops, functions, pointers etc.
 - [ ] Chapter on Strings
