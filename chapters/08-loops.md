@@ -242,7 +242,7 @@ We are out of loop now
 
 ### continue
 
-Suppose we have the same task, but instead of breaking at multiples of 5, we simple don't want to print them. We want to count, but only print numbers that are not multiples of 5.
+Suppose we have the same task, but instead of breaking at multiples of 5, we simply don't want to print them. We want to count, but only print numbers that are not multiples of 5.
 
 ```cpp
 int a = 0, b = 0;
@@ -281,3 +281,8 @@ We are out of loop now
 ```
 
 Notice that 10 and 15 are not printed. In those cases, the value of `a` was incremented, and the `continue` statement moved on to next iteration without executing the statements below it.
+
+<!--
+@todo Proof read chapter 08-loops
+@body This chapter hasn't been checked yet. Need to proof read.
+ -->
